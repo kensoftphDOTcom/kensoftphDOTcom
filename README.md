@@ -4,4 +4,4 @@
 - Have fun coding!
 
 - 📫 Mail me at https://kensoftph.com/contact
-- If you need help at programming, join our discord community: https://discord.gg/yyk7pPUB3H
+- If you need help at programming, join our discord community: https://discord.gg/4MxbQ2DzQs
