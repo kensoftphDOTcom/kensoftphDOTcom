@@ -5,3 +5,6 @@
 
 - 📫 Mail me at https://kensoftph.com/contact
 - If you need help at programming, join our discord community: https://discord.gg/4MxbQ2DzQs
+
+- https://github-readme-streak-stats.herokuapp.com/?user=kensoftphDOTcom
+- https://github-readme-stats.vercel.app/api/top-langs/?username=kensoftphDOTcom&layout=compact&theme=vision-friendly-dark
