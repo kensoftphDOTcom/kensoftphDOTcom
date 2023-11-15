@@ -1,4 +1,4 @@
-  <h1>Hi, I'm Kent from Kensoft PH</h1>
+  <h1 style="text-align: center;">Hi, I'm Kent from Kensoft PH</h1>
   <br>
   <p>The name KENSOFT is derived from the words Kent and Software. I began blogging as a way of spreading my understanding of the Java programming language. My video tutorials are also available on my <a href="https://youtube.com/kensoftph">YouTube channel</a>. If you want to learn anything new about the Java programming language, whether you are a skilled or a beginner. Consider becoming a subscriber to my YouTube channel.</p>
   <p>Have fun coding!</p>
