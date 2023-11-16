@@ -3,7 +3,7 @@
   <p>The name KENSOFT is derived from the words Kent and Software. I began blogging as a way of spreading my understanding of the Java programming language. My video tutorials are also available on my <a href="https://youtube.com/kensoftph">YouTube channel</a>. If you want to learn anything new about the Java programming language, whether you are a skilled or a beginner. Consider becoming a subscriber to my YouTube channel.</p>
   <p>Have fun coding!</p>
 
-- 📫 You can send me an email <a href="mailto:contact@kensoftph.com">Here</a>
+- 📫 You can email me <a href="mailto:contact@kensoftph.com">here</a>
 - If you need help with programming, join our discord community: https://discord.gg/4MxbQ2DzQs
 
 
