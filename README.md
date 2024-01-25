@@ -6,7 +6,7 @@
   <h2><a href="https://www.kenshot.com" target="_blank">Kenshot - Screenshot Tool</a></h2>
   <br>
   <p>I developed this application for people that have a hard time taking a screenshot on their computer and also for people that are taking pictures on their codes or something using their phone instead of taking a screenshot directly.</p>
-  <p>Download <a>Kenshot</a> For Free</p>
+  <p>Download <a href="https://www.kenshot.com" target="_blank">Kenshot</a> For Free</p>
 
 - 📫 You can email me <a href="mailto:contact@kensoftph.com">here</a>
 - If you need help with programming, join our discord community: https://discord.gg/4MxbQ2DzQs
