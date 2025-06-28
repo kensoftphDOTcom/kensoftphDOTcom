@@ -1,7 +1,8 @@
   <h1 style="text-align: center;">Hi, I'm Kent from Kensoft PH</h1>
   <br>
-  <p>The name KENSOFT is a combination of the words Kent and Software. I started blogging as a way of sharing my knowledge of the Java programming language. My video tutorials are also available on my <a href="https://youtube.com/kensoftph">YouTube channel</a>. If you want to learn anything new about Java, whether you are a skilled or a beginner. Consider becoming a subscriber to my YouTube channel.</p>
-  <p>Have fun coding!</p>
+  <p>The KENSOFT brand merges my name, Kent, with my passion for software development. Through my blog, I aim to pass on my Java programming knowledge to fellow developers and enthusiasts. I also produce educational video content available on YouTube. Regardless of your current skill level in Java – from complete beginner to seasoned programmer – subscribing to my <a href="https://youtube.com/kensoftph">YouTube channel</a> will provide you with valuable learning resources.<br>
+
+Enjoy your coding adventure!</p>
 
   <h2><a href="https://www.kenshot.com" target="_blank">Kenshot - Screenshot Tool</a></h2>
   <br>
